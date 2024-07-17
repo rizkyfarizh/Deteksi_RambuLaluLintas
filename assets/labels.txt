@@ -1,0 +1,11 @@
+area-parkir
+dilarang-belok-kanan
+dilarang-berhenti
+dilarang-parkir
+isyarat-lalu-lintas
+lampu-hijau_jalan
+lampu-kuning_bersiap
+lampu-merah_berhenti
+larangan-masuk-kendaraan
+peringatan-simpang-tiga
+petunjuk-putar-balik
